@@ -24,12 +24,12 @@ Required, 1 - 3:
 2. How many gamers are in the San Francisco Bay Area? Describe each step in your thought process.
 
 
-3.
+3. Crossword:
 
-    A. Build a crossword generator. Use the /crossword.txt file and, if necessary, explain and justify any changes you may need to
+  A. Build a crossword generator. Use the /crossword.txt file and, if necessary, explain and justify any changes you may need to
 make to the wordlist.
 
-    B. Build your own wordlist of at least 20 words meaningful to you that also works with your code.
+  B. Build your own wordlist of at least 20 words meaningful to you that also works with your code.
 
 -----
 Do at least 1 of the following:
