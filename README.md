@@ -35,26 +35,25 @@ make to the wordlist.
 Do at least 1 of the following:
 
 
-4 Read the page in the repo (/bay-bridge.txt) about the Bay Area's new bridge span. Answer the sections you feel are appropriate.
+4. Read the page in the repo (/bay-bridge.txt) about the Bay Area's new bridge span. Answer the sections you feel are appropriate.
 
 
-    A i-iii: Everyone
+  A i-iii: Everyone
 
 
-    B i-iv: Front End
+  B i-iv: Front End
 
 
-    C i-v: Programming
+  C i-v: Programming
 
 
-    D i-iv: Database / API
+  D i-iv: Database / API
 
 
-    Bonus: Everyone
+  Bonus: Everyone
 
 
 5. Create a game similar to Pac-Man. There are no language restrictions.
-
 
 
 6. If you feel neither question above will show off your skills and what makes you a great fit for IGN, this is your question to shine.
