@@ -26,10 +26,10 @@ Required, 1 - 3:
 
 3\. Crossword:
 
-&nbsp;&nbsp;A. Build a crossword generator. Use the /crossword.txt file and, if necessary, explain and justify any changes you may need to
+&nbsp;&nbsp;&nbsp;&nbsp;A. Build a crossword generator. Use the /crossword.txt file and, if necessary, explain and justify any changes you may need to
 make to the wordlist.
 
-&nbsp;&nbsp;B. Build your own wordlist of at least 20 words meaningful to you that also works with your code.
+&nbsp;&nbsp;&nbsp;&nbsp;B. Build your own wordlist of at least 20 words meaningful to you that also works with your code.
 
 -----
 Do at least 1 of the following:
@@ -38,19 +38,19 @@ Do at least 1 of the following:
 4\. Read the page in the repo (/bay-bridge.txt) about the Bay Area's new bridge span. Answer the sections you feel are appropriate.
 
 
-&nbsp;&nbsp;A i-iii: Everyone
+&nbsp;&nbsp;&nbsp;&nbsp;A i-iii: Everyone
 
 
-&nbsp;&nbsp;B i-iv: Front End
+&nbsp;&nbsp;&nbsp;&nbsp;B i-iv: Front End
 
 
-&nbsp;&nbsp;C i-v: Programming
+&nbsp;&nbsp;&nbsp;&nbsp;C i-v: Programming
 
 
-&nbsp;&nbsp;D i-iv: Database / API
+&nbsp;&nbsp;&nbsp;&nbsp;D i-iv: Database / API
 
 
-&nbsp;&nbsp;Bonus: Everyone
+&nbsp;&nbsp;&nbsp;&nbsp;Bonus: Everyone
 
 
 5\. Create a game similar to Pac-Man. There are no language restrictions.
