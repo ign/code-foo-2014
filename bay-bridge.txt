@@ -1,0 +1,74 @@
+4. The Bay Bridge
+
+Last year, the Bay Area opened the new eastern span of the Bay Bridge, an earthquake certified upgrade to the previous span. The trip
+from Oakland to SF still joins 3 major interchanges through a toll booth, and meters people through traffic lights to merge 16 lanes of traffic
+down to 5, with maximum effort for safety, while still attempting to minimize delays.
+
+References:
+<a href="https://www.google.com/maps/@37.8241188,-122.3174745,504m/data=!3m1!1e3">Map</a> | <a href="https://www.bayareafastrak.org/static/facilities/LaneDiagSF-Oak-final.pdf">Lane Diagram</a>
+
+    A. Everyone:
+
+        Explain your thought process for the following:
+
+        A i. How many vehicles cross the bridge, daily, towards San Francisco?
+
+        A ii. How many people does this translate to?
+
+        A iii. How many gamers make the crossing?
+
+
+    For the following questions 5-8, choose any of the assumptions at the bottom of the page you wish.
+
+    B. Front End:
+        Given the Lane Diagram linked above,
+
+        B i (First Level): Design and layout a visual representation of this model for a web page.
+
+        B ii (Next Level): Does it work on all browsers, including my mobile device? Is it responsive?
+
+        B iii (Next-er Level): Can it move?
+
+        B iv (Boss Level): Can it interact?
+
+    C. BackEnd:
+
+        C i (First Level): Write a program for the metering lights that can handle and even distribution of 60 vehicles in 15 lane input,
+            and results in 4 "waves" of evenly spaced cars for an output. What is the minimum time to achieve?
+
+        C ii (Next Level): Assume minimum time is unsafe and near collisions inappropriate. What safety measures should be added to the
+        code to approximate reality?
+
+        C iii (Next Level): Allow the inputs and outputs to be configurable, add
+
+        C iv (Next-er Level): Offer feedback for min/max levels with/without crashes.
+
+        C v (Boss Level): Add a GUI.
+
+
+    D.  Database / API:
+
+        D i (First Level): Store and retrieve elements for every vehicle that travel through the lights for each day. Lanes, wait times, car color, etc could be interesting attributes.
+        D ii (Next Level): Show how to query for specific elements, sum over days / trips, and normalize attributes for individuals elegantly for the operators running the lights.
+        D iii (Next-er Level): Allow editing of specific items, both during and after the fact.
+        D iv (Boss Level): Enable a GUI
+
+    E. Bonus Level (all):
+
+    E i: A driver has gained access to a <a href="http://www.ign.com/articles/2014/03/06/watch-dogs-release-date-leaked-in-trailer">Watch Dogs</a>
+    type device that allows them control over the metering lights. Assuming the driver wishes to maintain his 50mph cruising speed throughout, and assuming we want to allow
+    access to the lights, describe all the assumptions that should be made. For example, assume the lights are wi-fi and therefore have infinite device range.
+
+
+------------
+Assumptions: Feel free to make the following assumption for simplicity, based on rough averages we found from the internet machine.
+For your convenience, you may create your own assumptions and comment on the reasoning behind them.
+    - 15 inputs / starting lanes (simplified from 16 actual)
+    - 5 output / finishing lanes (actual)
+    - All vehicles are in a binary state of moving (50mph) or not-moving (0mph), and all start at 0 mph.
+    - All vehicles accelerate constantly at 10ft/s2 (<a href="http://hypertextbook.com/facts/2001/MeredithBarricella.shtml">ref</a> | <a href="http://www.calculatorsoup.com/calculators/conversions/acceleration.php">convert</a> (rounded down)) from 0 mph to 50 mph, the posted speed limit of the bridge
+    - A vehicle not first in line is assumed to be instantly first in line if the car in front departs; no need to account for any time / distance before the metering lights.
+    - All vehicles are a constant 15 feet length (rounded from <a href="http://www.ask.com/question/what-is-the-average-length-of-a-car">(~5m)</a>
+    - The length of road from start to finish is 1000 feet (round number from approx visual inspection of map)
+    - All vehicles only merge as implied by the lane configuration determined by the code (simplification).
+
