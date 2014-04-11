@@ -3,7 +3,7 @@ IGN's Code-Foo 2014
 
 IGN's Code-Foo program is a part time, summer opportunity for engineers at our San Francisco office location. From
 ~mid-July to ~mid-August, those accepted into the program will work alongside the current engineering staff learning
-about the stack and coding with the team on active projects.
+about the IGN tech stack and coding with the team on active projects.
 
 To apply to IGN's Code-Foo 2014, fork this repository and submit responses for questions #1-#3 and at least one of #4-6.
 
@@ -12,7 +12,7 @@ Push your answers to your fork and send us an email at ign-code-foo@ign.com to l
 All answers must be completed at least partially using HTML/CSS, JavaScript Java, Scala, PHP, and/or Ruby. Other programs used
 should be explained and justified for fit.
 
-Application must be turned in by _Monday, May 5th at 5pm PST_.
+Application must be turned in by _Monday, May 5th at 5pm PST_. Happy hacking.
 
 -----
 Required, 1 - 3:
