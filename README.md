@@ -15,12 +15,12 @@ should be explained and justified for fit.
 Application must be turned in by _Monday, May 5th at 5pm PST_.
 
 -----
-Required, #1-3:
-#1. Create a 2-5 minute video introducing yourself and showing your passion for IGN and the Code-Foo program.
+Required, 1 - 3:
+1 Create a 2-5 minute video introducing yourself and showing your passion for IGN and the Code-Foo program.
 
-#2. How many gamers are in the San Francisco Bay Area? Describe each step in your thought process.
+2 How many gamers are in the San Francisco Bay Area? Describe each step in your thought process.
 
-#3.
+3
 
 A. Build a crossword generator. Use the /crossword.txt file and, if necessary, explain and justify any changes you may need to
 make to the wordlist.
@@ -31,7 +31,7 @@ B. Build your own wordlist of at least 20 words meaningful to you that also work
 Do at least 1 of the following:
 
 
-#4. Read the page in the repo (/bay-bridge.txt) about the Bay Area's new bridge span. Answer the sections you feel are appropriate.
+4 Read the page in the repo (/bay-bridge.txt) about the Bay Area's new bridge span. Answer the sections you feel are appropriate.
 
 
     A i-iii: Everyone
