@@ -26,10 +26,10 @@ Required, 1 - 3:
 
 3\. Crossword:
 
-  A. Build a crossword generator. Use the /crossword.txt file and, if necessary, explain and justify any changes you may need to
+&nbsp;&nbsp;A. Build a crossword generator. Use the /crossword.txt file and, if necessary, explain and justify any changes you may need to
 make to the wordlist.
 
-  B. Build your own wordlist of at least 20 words meaningful to you that also works with your code.
+&nbsp;&nbsp;B. Build your own wordlist of at least 20 words meaningful to you that also works with your code.
 
 -----
 Do at least 1 of the following:
@@ -38,26 +38,26 @@ Do at least 1 of the following:
 4\. Read the page in the repo (/bay-bridge.txt) about the Bay Area's new bridge span. Answer the sections you feel are appropriate.
 
 
-  A i-iii: Everyone
+&nbsp;&nbsp;A i-iii: Everyone
 
 
-  B i-iv: Front End
+&nbsp;&nbsp;B i-iv: Front End
 
 
-  C i-v: Programming
+&nbsp;&nbsp;C i-v: Programming
 
 
-  D i-iv: Database / API
+&nbsp;&nbsp;D i-iv: Database / API
 
 
-  Bonus: Everyone
+&nbsp;&nbsp;Bonus: Everyone
 
 
 5\. Create a game similar to Pac-Man. There are no language restrictions.
 
 
 6\. If you feel neither question above will show off your skills and what makes you a great fit for IGN, this is your question to shine.
-Design and answer something you feel is a fair representation of your talents and contributions, and submit it.
+Design and buiild something you feel is a fair representation of your talents and contributions, and submit it.
 
 
 
